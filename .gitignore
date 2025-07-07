@@ -1,0 +1,3 @@
+gfs-venv/
+__pycache__/
+*.pyc
